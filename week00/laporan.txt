@@ -1,1 +1,2 @@
 #Zetra
+Pada tugas pertama kami disuruh memperkenalkan diri di forum scele, kemudian tugas keduanya adalah membuat repository di github, dan juga login ke badak.cs.ui.ac.id menggunakan ssh.
