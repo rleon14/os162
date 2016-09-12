@@ -1,0 +1,19 @@
+total 64
+drwxr-xr-x 15 zetra StafCS 4096 Sep 12 20:23 .
+drwx--x--x  3 zetra StafCS 4096 Sep 12 20:16 ..
+drwxr-xr-x  8 zetra StafCS 4096 Sep 12 20:22 .git
+-rw-r--r--  1 zetra StafCS    7 Sep 12 20:04 README.md
+drwxr-xr-x  2 zetra StafCS 4096 Sep 12 20:12 SandBox
+-rw-r--r--  1 zetra StafCS    0 Sep 12 20:23 lab01.txt
+drwxr-xr-x  2 zetra StafCS 4096 Sep 12 20:16 week00
+drwxr-xr-x  2 zetra StafCS 4096 Sep 12 20:07 week01
+drwxr-xr-x  2 zetra StafCS 4096 Sep 12 20:07 week02
+drwxr-xr-x  2 zetra StafCS 4096 Sep 12 20:07 week03
+drwxr-xr-x  2 zetra StafCS 4096 Sep 12 20:07 week04
+drwxr-xr-x  2 zetra StafCS 4096 Sep 12 20:08 week05
+drwxr-xr-x  2 zetra StafCS 4096 Sep 12 20:08 week06
+drwxr-xr-x  2 zetra StafCS 4096 Sep 12 20:08 week07
+drwxr-xr-x  2 zetra StafCS 4096 Sep 12 20:08 week08
+drwxr-xr-x  2 zetra StafCS 4096 Sep 12 20:08 week09
+drwxr-xr-x  2 zetra StafCS 4096 Sep 12 20:08 week10
+/home/fasilkom/mahasiswa/z/zetra/os162/week01
