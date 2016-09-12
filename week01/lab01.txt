@@ -17,3 +17,4 @@ drwxr-xr-x  2 zetra StafCS 4096 Sep 12 20:08 week08
 drwxr-xr-x  2 zetra StafCS 4096 Sep 12 20:08 week09
 drwxr-xr-x  2 zetra StafCS 4096 Sep 12 20:08 week10
 /home/fasilkom/mahasiswa/z/zetra/os162/week01
+Today is 12 Sep 2016 at 20:44:08
