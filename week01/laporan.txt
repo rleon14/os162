@@ -1,0 +1,2 @@
+#Zetra
+Pada tugas kali ini, kami belajar bagaimana menggunakan git, scripting di linux, serta text editor seperti vim.
