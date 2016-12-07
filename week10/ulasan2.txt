@@ -1,0 +1,6 @@
+Github account  : https://github.com/zetbaitsu
+URL ulasan      : http://zetlogger.blogspot.co.id/2016/12/apache-hadoop-modern-data-os.html
+URL video       : https://www.youtube.com/watch?v=d2xeNpfzsYI
+Durasi video    : 1 jam 16 menit 43 detik
+Revisi pertama  : Rabu, 07 Desember 2016
+Revisi terakhir : Rabu, 07 Desember 2016 
